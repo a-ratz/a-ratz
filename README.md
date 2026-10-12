@@ -22,6 +22,12 @@ acceptance, and the agents write the code. Rules belong in code, not in prompts.
 - [**wd-lecture-agents-2026**](https://github.com/a-ratz/wd-lecture-agents-2026): a four-hour
   hands-on workshop on Codex, Claude Code and GitHub Copilot (German).
 
+**Writing**
+
+[Infinite Loop](https://inifinite-loop.andre-ratzenberger.workers.dev/): interactive essays, each post its
+own small app. Latest: [Fifty-One Hours](https://inifinite-loop.andre-ratzenberger.workers.dev/fifty-one-hours)
+and [Who Decides Done?](https://inifinite-loop.andre-ratzenberger.workers.dev/loops).
+
 **Lately**
 
 - Ran a coding agent on Flock for 51 hours: 88 merged pull requests, 3,289 backend tests on
