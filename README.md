@@ -24,9 +24,9 @@ acceptance, and the agents write the code. Rules belong in code, not in prompts.
 
 **Writing**
 
-[Infinite Loop](https://infinite-loop.andre-ratzenberger.workers.dev/): interactive essays, each post its
-own small app. Latest: [Fifty-One Hours](https://infinite-loop.andre-ratzenberger.workers.dev/fifty-one-hours)
-and [Who Decides Done?](https://infinite-loop.andre-ratzenberger.workers.dev/loops).
+[Infinite Loop](https://a-ratz.github.io/): interactive essays, each post its
+own small app. Latest: [Fifty-One Hours](https://a-ratz.github.io/fifty-one-hours)
+and [Who Decides Done?](https://a-ratz.github.io/loops).
 
 **Lately**
 
